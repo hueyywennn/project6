@@ -11,4 +11,4 @@ develop an interactive dashboard to provide key insights into business sales tre
 ### Dashboard
 ![Image](https://github.com/hueyywennn/project6/blob/main/Sales%20Performance.png)
 
-Tableau portfolio: https://public.tableau.com/shared/FW7DYWXRF?:display_count=n&:origin=viz_share_link
+Tableau portfolio: https://public.tableau.com/views/SalesPerformanceDashboard_17386786366040/SalesPerformance?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
