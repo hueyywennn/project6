@@ -7,3 +7,8 @@ develop an interactive dashboard to provide key insights into business sales tre
 ## Tools used 
 1. **Visualization Tools**
    - Tableau
+
+### Dashboard
+![Image](https://github.com/hueyywennn/project6/blob/main/Sales%20Performance.png)
+
+Tableau portfolio: https://public.tableau.com/shared/FW7DYWXRF?:display_count=n&:origin=viz_share_link
